@@ -1,6 +1,7 @@
 https://rohit2200.github.io/Twitter-Clone/
 
-Description
+Description:
+
 This project is a simple clone of Twitter, built to replicate its core features and provide a platform for practicing frontend development skills. It focuses on designing an interactive and user-friendly interface with essential functionalities like posting tweets and viewing feeds.
 
 Features
